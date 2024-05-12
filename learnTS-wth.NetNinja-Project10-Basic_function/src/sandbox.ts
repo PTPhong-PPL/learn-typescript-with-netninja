@@ -33,5 +33,4 @@ greet = (name: string, greeting: string) => { ... }
 
 Cái này là để khai báo function rồi ghi rõ để làm gì luôn
 const greet = (name: string, greeting: string): string => { ... }
-
 */
